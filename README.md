@@ -1,4 +1,4 @@
-#Dmo project Readme
+*#Dmo project Readme
 
 &
 This is a simple readme file
